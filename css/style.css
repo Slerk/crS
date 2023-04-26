@@ -1,0 +1,153 @@
+
+.navbar {
+  position	: relative;
+}
+
+div.sesslog  {
+color: white;
+  /* position	: absolute; */
+}
+
+
+/* КАРУСЕСЬ */
+
+div.carousel {
+  background: #777;
+  width: 100%;
+  height: 45rem;
+}
+
+div.carousel-item img{
+  height: 45rem;
+  width: 100%;
+
+}
+
+/* РОУТ И РАЗМЕТКА */
+
+div.row {
+  margin-top: 100px;
+  margin-bottom: 6rem;
+}
+
+
+
+/* ФУТЕР */
+
+
+
+
+
+div.footerr.container-fluid{
+  position:absolute;
+
+   /* position:fixed; */
+/* bottom: 0px; */
+  height: 6rem;
+  background: black;
+}
+span.text-muted{
+  margin-top: 2.5rem;
+}
+/* .d-flex{
+  margin-top: 4rem
+} */
+.fa-telegram-plane:before {
+  font-size: 1.5rem;
+
+}
+
+.fa-instagram:before{
+  font-size: 1.5rem;
+}
+
+.fa-youtube:before{
+  font-size: 1.5rem;
+}
+
+ul.nav{
+    margin-top: 2.5rem;
+}
+
+/* REG */
+body.registr_body{
+  /* #5e5c5c */
+  /* #7f89b5 */
+  background: #040405;
+}
+
+
+
+p.podv{
+  margin-left: 80px;
+}
+
+.fa-user::before{
+  margin-left: 80px;
+  font-size: 6rem;
+}
+
+.fa-clone::before{
+  margin-left: 80px;
+  font-size: 6rem;
+}
+
+#block {
+        display: none;
+    }
+
+
+    div.autBod {
+      margin-left: -1.5rem;
+      font-size: 6rem;
+    }
+    p.podv_auth{
+      margin-left: 50px;
+    }
+
+
+    /* лого постов */
+
+    div.icon {
+      margin-left: 12rem;
+    }
+
+div.zag {
+  margin-left: 14rem;
+}
+
+/* левое меню */
+div.menu {
+
+  background: #f7f6f2;
+  border-radius: 2rem;
+}
+
+
+
+/* SECOND books */
+div.im img {
+  height: 600px;
+  width: 500px;
+}
+
+/*book*/
+
+div.bkImg img {
+  height: 600px;
+  width: 500px;
+}
+
+/*главная посты*/
+
+div.firs img {
+   height: 600px;
+  width: 500px;
+}
+
+img.imProd {
+
+    height: 100px ;
+    width: 100px ;
+
+}
